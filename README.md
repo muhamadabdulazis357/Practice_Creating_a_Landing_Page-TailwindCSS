@@ -1,2 +1,2 @@
-# LatihanMembuatLandingPage-TallwindCSS
-Belajar Membuat Landing Page Menggunakan Tallwind CSS
+# LatihanMembuatLandingPage-TailwindCSS
+Belajar Membuat Landing Page Menggunakan Tailwind CSS
